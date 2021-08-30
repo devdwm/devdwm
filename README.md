@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devdwm
-- 👀 I’m interested in python, django, azure, IaC
-- 🌱 I’m currently learning IaC, Django, and React!
+- 👀 I’m interested in python, Full-stack engineering in JS.
+- 🌱 I’m currently learning JS, and React!
 - 💞️ I’m looking to collaborate on anything
-- 📫 I am currently working on an backup check monitoring platform based in Django, hosted in Microsoft Azure.
+- 📫 I am currently working on a personal portfolio
 
 <!---
 devdwm/devdwm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
